@@ -10,7 +10,7 @@ import Navbar from "./components/Navbar";
 import Slider from "./components/Slider";
 import Footer from "./components/Footer";
 
-class  App extends Component {
+class App extends Component {
     render() {
         return (
             <div>
